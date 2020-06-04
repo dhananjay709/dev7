@@ -11,12 +11,19 @@ use this link-> http://dhananjayverma1.pythonanywhere.com/api/v1/users/
 Installation Steps if you want to try it out locally
 
 git clone https://github.com/dhananjay709/dev7
+
 cd assignment
+
 virtualenv -p python3.6 venv 
+
 source venv/bin/activate
+
 pip install -r requirements.txt
+
 cd assignment
+
 python manage.py migrate
+
 python manage.py runserver # starts the server 
 
 # Requirements
