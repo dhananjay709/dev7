@@ -1,6 +1,6 @@
 # Django REST API Example
 
-This Django tutorial app was created for the purpose of demonstrating Django and Django Rest Framework. It shows the basics of writing a REST endpoint which allows creating users and retrieving users and their activitie periods (tracks time).
+This Django tutorial app was created for the purpose of demonstrating Django and Django Rest Framework. It shows the basics of writing a REST endpoint which allows creating users and retrieving users and their activity periods (tracks time).
 
 If you just want to try my code out, I suggest using the Quick Start or you can jus go through the api endpoint to check the result of this api.
 
