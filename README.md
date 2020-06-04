@@ -2,7 +2,7 @@
 
 This Django tutorial app was created for the purpose of demonstrating Django and Django Rest Framework. It shows the basics of writing a REST endpoint which allows creating users and retrieving users and their activity periods (tracks time).
 
-If you just want to try my code out, I suggest using the Quick Start or you can jus go through the api endpoint to check the result of this api.
+If you just want to try my code out, I suggest using the Quick Start or you can just go through the below api endpoint to check the result of this api.
 
 use this link-> http://dhananjayverma1.pythonanywhere.com/api/v1/users/
 
