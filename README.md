@@ -1,4 +1,4 @@
-Django REST Image Upload Example
+Django REST simple api  Example
 
 This Django tutorial app was created for the purpose of demonstrating Django and Django Rest Framework. It shows the basics of writing a REST endpoint which allows uploading and retrieving pictures.
 
