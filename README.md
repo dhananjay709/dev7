@@ -8,7 +8,7 @@ use this link-> http://dhananjayverma1.pythonanywhere.com/api/v1/users/
 
 
 # Quick Start
-'''
+''' 
 Installation Steps if you want to try it out locally
 
 git clone https://github.com/dhananjay709/dev7
@@ -26,7 +26,8 @@ cd assignment
 python manage.py migrate
 
 python manage.py runserver # starts the server 
-'''
+ 
+ '''
 # Requirements
 
     Python 3.4+
